@@ -2,9 +2,13 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudinfo&label=Profile views&color=0e75b6&style=flat" alt="mahmoudinfo" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudinfo" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudinfo" alt="mahmoudinfo" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudinfo&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
 
 - 🔭 I'm currently working on **Senior Data Analysis**
 
