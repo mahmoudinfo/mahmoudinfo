@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudinfo&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudinfo&show_icons=true&theme=radical" />
 </p>
 
 - 🔭 I'm currently working on **Senior Data Analysis**
