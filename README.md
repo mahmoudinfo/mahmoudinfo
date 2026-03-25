@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahmoud Rizk
+# Hi, I'm Mahmoud Rizk
 
 ### A passionate developer from around the world
 
