@@ -7,13 +7,14 @@
 </p>
 
 <p align="left">
-My Account Static
+  
+My Account Stats:
 
-<img src="https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/0-profile-details.svg" />
+![Profile Details](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/1-repo-languages.svg)
+![Repo Languages](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/1-repo-languages.svg)
 
-![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/2-commit-details.svg)
+![Commit Details](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/2-commit-details.svg)
 </p>
 
 - 🔭 I'm currently working on **Senior Data Analysis**
