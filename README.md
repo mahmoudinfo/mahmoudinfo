@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
- ### 📊 إحصائيات حسابي
+My Account Static
 
-![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/0-profile-details.svg)
+<img src="https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/0-profile-details.svg" />
 
 ![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/1-repo-languages.svg)
 
