@@ -10,7 +10,7 @@
   
 My Account Stats:
 
-![Profile Details]([./profile-summary-card-output/github/0-profile-details.svg])
+![Profile Details]([./profile-summary-card-output/github/0-profile-details.svg](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/blue_green/1-repos-per-language.svg))
 
 ![Repo Languages](./profile-summary-card-output/github/1-repo-languages.svg)
 
