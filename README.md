@@ -10,7 +10,7 @@
   
 My Account Stats:
 
-![Profile Details](./profile-summary-card-output/github/0-profile-details.svg)
+![Profile Details]([./profile-summary-card-output/github/0-profile-details.svg](https://github.com/vn7n24fzkq/github-profile-summary-cards))
 
 ![Repo Languages](./profile-summary-card-output/github/1-repo-languages.svg)
 
