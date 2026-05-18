@@ -10,11 +10,11 @@
   
 My Account Stats:
 
-![Profile Details]([./profile-summary-card-output/github/0-profile-details.svg](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/blue_green/1-repos-per-language.svg))
+![Profile Details](https://github.com/mahmoudinfo/mahmoudinfo/raw/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg)
 
-![Repo Languages](./profile-summary-card-output/github/1-repo-languages.svg)
+![Repos Per Language](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)
 
-![Commit Details](./profile-summary-card-output/github/2-commit-details.svg)
+![Commit Details](https://github.com/mahmoudinfo/mahmoudinfo/raw/main/profile-summary-card-output/aura_dark/4-productive-time.svg)
 </p>
 
 - 🔭 I'm currently working on **Senior Data Analysis**
