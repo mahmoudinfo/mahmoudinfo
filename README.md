@@ -7,7 +7,13 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudinfo&show_icons=true&theme=radical" />
+ ### 📊 إحصائيات حسابي
+
+![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/1-repo-languages.svg)
+
+![](https://raw.githubusercontent.com/mahmoudinfo/mahmoudinfo/main/profile-summary-card-output/default/2-commit-details.svg)
 </p>
 
 - 🔭 I'm currently working on **Senior Data Analysis**
